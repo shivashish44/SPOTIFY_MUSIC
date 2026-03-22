@@ -178,8 +178,8 @@ stream_1 : "<b><blockquote><b>➜ Started Streaming •</b></blockquote>\n\n<b>�
 stream_2 : "<b>sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ •</b>\n<b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ •</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>❍ ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ •</b> {0}\n\n**"
 
 
-CLOSE_BUTTON  : "Close"
-BACK_BUTTON : "Back"
+CLOSE_BUTTON  : "ᵎ!ᵎ Close"
+BACK_BUTTON : "𓄲 Back"
 NEXT_PAGE: ">"
 BACK_PAGE: "<"
 
