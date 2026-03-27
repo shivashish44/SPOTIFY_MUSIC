@@ -1,18 +1,18 @@
 <h2 align="center">
-    ──「 sᴘᴏᴛɪғʏ ダ ᴍᴜsɪᴄ 」──
+    ──「 ♫─ᴀᴀʀᴜ Qᴜᴇᴇɴ─♫ 」──
 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BABY-MUSIC/SPOTIFY_MUSIC/main/SPOTIFY_MUSIC/assets/assets/public.jpg" alt="BabyMusic Banner">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+BETA+BOT+HUB+🚩+🍁"></b></h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"><b>Beta𝐁ᴏᴛHub</b></h1>
+<p align="center"><a href="https://sukoon_s"><img src="https://files.catbox.moe/nrt3hr.jpg" width="400"></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </p>
 
-<p align="center">
-<a href="https://github.com/BABY-MUSIC/JAZZY"><img src="https://img.shields.io/github/stars/BABY-MUSIC/JAZZY?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/BABY-MUSIC/JAZZY/network/members"> <img src="https://img.shields.io/github/forks/BABY-MUSIC/JAZZY?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/BABY-MUSIC/JAZZY/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/BABY-MUSIC/JAZZY/commits/BABY-MUSIC"> <img src="https://img.shields.io/github/last-commit/BABY-MUSIC/JAZZY?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=spotify-music&type=git&repository=BABY-MUSIC%2FSPOTIFY_MUSIC&branch=main&builder=dockerfile)
 
@@ -79,7 +79,6 @@
 
 ### 🛠 Commands & Usage
 
-The Baby Music Bot offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -90,7 +89,7 @@ The Baby Music Bot offers a range of commands to enhance your music listening ex
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/BABY09_WORLD).
+For a full list of commands, use `/help` in [telegram](https://t.me/betabot_hub).
 
 ---
 ━━━━━━━━━━━━━━━━━━━━
@@ -100,9 +99,14 @@ For a full list of commands, use `/help` in [telegram](https://t.me/BABY09_WORLD
 </h3>
 
 <p align="center">
-<a href="https://t.me/+OL6jdTL7JAJjYzVl"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BETABOT_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BABY09_WORLD"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BETABOT_HUB"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
+### Contact :
+<a href="https://t.me/SUKOON_S"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+<a href="https://instagram.com/shivashish.kr"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
