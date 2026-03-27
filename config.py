@@ -7,14 +7,14 @@
 # ||   ██╔══██╗██╔══██║██╔══██╗██║   ██║██╔══╝  ╚════██║██║██║▄▄ ██║ ||
 # ||   ██████╔╝██║  ██║██████╔╝╚██████╔╝███████╗███████║██║╚██████╔╝ ||
 # ||   ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝ ╚══▀▀═╝  ||
-# ║    ▓▒░ ʙ ᴀ ʙ ɪ ᴇ sＩＱ ░▒▓  s ᴇ ᴄ ᴜ ʀ ᴇ  ▓▒░ ɴ ᴇ ᴛ ᴡ ᴏ ʀ ᴋ ░▒▓    ║
+# ║    ▓▒░ SHIV ░▒▓  s ᴇ ᴄ ᴜ ʀ ᴇ  ▓▒░ ɴ ᴇ ᴛ ᴡ ᴏ ʀ ᴋ ░▒▓    ║
 # ||                                                               ||
 # ======================================================================
-# || PROJECT  : SPOTIFY_MUSIC Public Music Repository                  ||
+# || PROJECT  : ♫─ᴀᴀʀᴜ MUSIC─♫ Public Music Repository                  ||
 # || AUTHOR   : BabiesIQ Team                                      ||
-# || REPO     : github.com/BABY-MUSIC/SPOTIFY_MUSIC                ||
+# || REPO     : https://i.ibb.co/Lz4WxZnF/8418584090-29223.jpg               ||
 # || API      : www.babyapi.pro                                    ||
-# || TELEGRAM : t.me/BabiesIQ                                      ||
+# || TELEGRAM : t.me/BETABOT_HUB                                     ||
 # ----------------------------------------------------------------------
 # || LEGAL NOTICE                                                  ||
 # || Use / upload / modify at your own risk.                       ||
@@ -41,15 +41,15 @@ load_dotenv()
 API_ID = int(getenv("API_ID", None))
 API_HASH = getenv("API_HASH", None)
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
-BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@SUJOON_S")
+BOT_USERNAME = getenv("BOT_USERNAME" , "aaru_beatsbot")
+BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁♫─ᴀᴀʀᴜ Qᴜᴇᴇɴ─♫𖠁⃝╾")
+ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁♫─ᴀᴀʀᴜ Qᴜᴇᴇɴ─♫𖠁⃝╾")
 # ---------------------------------------------------------
 BASE_URL = getenv("BASE_URL", "https://BabyAPI.Pro")
 API_KEY = getenv("API_KEY", None)
 # ---------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://shivbots:shivashish@cluster0.kdzu3eg.mongodb.net/?appName=Cluster0")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 OWNER_ID = int(getenv("OWNER_ID", None))
@@ -65,10 +65,10 @@ GIT_TOKEN = getenv(
 )
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+gF7M1_0PC803ZjU9")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/YTM_Points")
-SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/SPOTIFY_MUSIC")
-CHAT = getenv("CHAT", "https://t.me/+q43QONRtkrg5NGFk")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/betabot_hub")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/betabot_support")
+SOURCE = getenv("SOURCE", "https://preet_deal+bot")
+CHAT = getenv("CHAT", "https://t.me/betabot_support")
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
@@ -96,22 +96,22 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://raw.githubusercontent.com/BABY-MUSIC/SPOTIFY_MUSIC/main/SPOTIFY_MUSIC/assets/assets/public.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/umpv9j.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/fd827f9a4fe8eaa3e8bf4.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/lnvimv.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/c832e84cd991c865c7e4f.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/ho0744.png"
+STATS_IMG_URL = "https://files.catbox.moe/ho0744.png"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ho0744.png"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/ay13ih.png"
 IQ_Proxy = "https://i.ytimg.com/vi"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/ay13ih.png"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/ay13ih.png"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/ay13ih.png"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/umpv9j.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/umpv9j.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/umpv9j.jpg"
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 def time_to_seconds(time):
