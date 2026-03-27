@@ -52,7 +52,7 @@ from SPOTIFY_MUSIC import app
 from config import BASE_URL, API_KEY
 from urllib.parse import urlparse
 
-def is_safe_youtube_url(url: str) -> bool:
+def safe_yt_shell(url: str) -> bool:
     try:
         p = urlparse(url)
         if p.scheme not in ("http", "https"):
