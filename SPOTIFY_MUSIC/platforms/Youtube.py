@@ -284,7 +284,7 @@ class YouTubeAPI:
         if "&" in link:
             link = link.split("&")[0]
         
-        if not is_safe_youtube_url(link):
+        if not safe_yt_shell(link):
             return 0, "Invalid or unsafe URL."
         try:
             downloaded_file = await download_video(link)
