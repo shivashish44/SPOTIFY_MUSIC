@@ -52,7 +52,7 @@ API_KEY = getenv("API_KEY", None)
 MONGO_DB_URI = getenv(
     "MONGO_DB_URI",
     "mongodb+srv://shivbots:shivashish@cluster0.kdzu3eg.mongodb.net/?appName=Cluster0"
-))
+)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 OWNER_ID = int(getenv("OWNER_ID", None))
