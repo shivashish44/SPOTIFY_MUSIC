@@ -49,7 +49,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁♫─ᴀᴀʀᴜ Qᴜᴇᴇɴ�
 BASE_URL = getenv("BASE_URL", "https://BabyAPI.Pro")
 API_KEY = getenv("API_KEY", None)
 # ---------------------------------------------------------
-MONGO_DB_URI = getenv( None)
+MONGO_DB_URI = getenv("mongodb+srv://shivbots:shivashish@cluster0.kdzu3eg.mongodb.net/?appName=Cluster0")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 OWNER_ID = int(getenv("OWNER_ID", None))
